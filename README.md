@@ -83,6 +83,8 @@ gcc -fopenmp filename.c -o output_name
 mpicc -fopenmp filename.c -o output_name
 mpirun -np <num_processes> ./output_name
 
+```
+---
 
 ## 👩‍💻 Author
 

@@ -86,6 +86,7 @@ mpirun -np <num_processes> ./output_name
 ```
 ---
 
-## 👩‍💻 Autho
-<span style="color:#e91e63; font-weight:bold;">Laila Waleed</span>
+## 👩‍💻 Author
+
+***Laila Waleed***
 

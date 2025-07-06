@@ -1,7 +1,6 @@
 # HPC Assignments - Spring 2025
 Faculty of Computers and Artificial Intelligence  
 Cairo University  
-Course: High Performance Computing - Spring 2025  
 
 This repository contains solutions for all three assignments of the **HPC (High Performance Computing)** course using **MPI** and **OpenMP**, as assigned in Spring 2025.
 
@@ -84,9 +83,8 @@ gcc -fopenmp filename.c -o output_name
 mpicc -fopenmp filename.c -o output_name
 mpirun -np <num_processes> ./output_name
 
+---
 
 ## 👩‍💻 Author
 
 **Laila Waleed**  
-
----
